@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Android Permissions</string>
+    <string name="btn_permission">Pedir permisos</string>
+    <string name="alert_permission">Debes aceptar los permisos para poder usar la aplicación</string>
+    <string name="btn_yes">Si</string>
+    <string name="btn_no">No</string>
+    <string name="btn_close">Cerrar</string>
+</resources>

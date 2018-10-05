@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Android Permissions</string>
+
+    <string name="btn_permission">Ask permission</string>
+    <string name="alert_permission">You must accept the permissions to use the app</string>
+    <string name="btn_yes">Yes</string>
+    <string name="btn_no">No</string>
+    <string name="btn_close">Close</string>
+</resources>
